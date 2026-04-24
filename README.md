@@ -58,3 +58,9 @@ systemctl stop nftables
 systemctl disable nftables
 rm -rf /etc/ipsec.d/* /root/pki /root/*.p12 /root/*.mobileconfig /root/*.sswan
 ```
+
+## Support Author
+
+If you find this project useful, you can support the author:
+
+- [Donate via Yoomoney](https://yoomoney.ru/to/41001881102770)
